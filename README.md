@@ -7,6 +7,6 @@ You might need to use Node 8, but want a more recent version of Yarn than the of
 
 #### Contains:
 - Node.js 8.x
-- Yarn (latest "stable" from Alpine repos, check the [Changelog](/CHANGELOG.md) for most recent version)
+- Yarn (check the [Changelog](/CHANGELOG.md) for most recent version)
 - Git
 - `greenkeeper-lockfile`
